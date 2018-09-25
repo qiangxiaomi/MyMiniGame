@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6869c87-1859-4d42-a4b7-50b3ec3fe20e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/ZZMiniGame.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.prettierrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.wepycache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.wepyignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project.config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/app.wpy" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/counter.wpy" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/group.wpy" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/groupitem.wpy" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/list.wpy" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/panel.wpy" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/wepy-list.wpy" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/index.template.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/mixins/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/index.wpy" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/store/actions/counter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/store/actions/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/store/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/store/reducers/counter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/store/reducers/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/store/types/counter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/store/types/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wepy.config.js" />
-    </list>
+    <list default="true" id="f6869c87-1859-4d42-a4b7-50b3ec3fe20e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -46,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.wpy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.wpy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/index.wpy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -56,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.wpy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.wpy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app.wpy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="58" column="3" lean-forward="true" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+            <state relative-caret-position="265">
+              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#!!top" expanded="false" />
                 <element signature="e#31#176#0" expanded="false" />
@@ -183,12 +151,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537514037012</updated>
       <workItem from="1537514038370" duration="972000" />
-      <workItem from="1537521178429" duration="798000" />
+      <workItem from="1537521178429" duration="3691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1770000" />
+    <option name="totallyTimeSpent" value="4663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -241,18 +209,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app.wpy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="58" column="3" lean-forward="true" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+        <state relative-caret-position="265">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#!!top" expanded="false" />
             <element signature="e#31#176#0" expanded="false" />
@@ -268,6 +228,14 @@
             <element signature="e#1171#1287#0" expanded="false" />
             <element signature="e#1193#1281#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.wpy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
